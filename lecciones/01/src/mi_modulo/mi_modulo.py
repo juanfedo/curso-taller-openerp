@@ -6,5 +6,5 @@ class mi_modulo_mi_tabla(osv.osv):
         'name' : fields.char('nombre',size=255),
         'description' : fields.char('descripcion',size=255),
     }
-    #mi modificacion 
+    #esta es una modificación desde mi maquina
 mi_modulo_mi_tabla()
